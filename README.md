@@ -1,0 +1,6 @@
+# Sequelize
+
+## Prerequisites
+
+* NVM
+* Docker
